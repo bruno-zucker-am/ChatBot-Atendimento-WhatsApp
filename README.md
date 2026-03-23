@@ -21,7 +21,7 @@ Um bot de atendimento automático para WhatsApp construído com **whatsapp-web.j
 ### 1. Pré-requisitos
 
 - Ubuntu 20+ (ou superior)
-- [Node.js](https://nodejs.org/) v16 ou superior
+- [Node.js](https://nodejs.org/) v20 ou superior
 - npm
 
 ### 2. Instalar dependências
