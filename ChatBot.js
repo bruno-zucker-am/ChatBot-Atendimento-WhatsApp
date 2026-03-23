@@ -168,7 +168,7 @@ Funcionando em iPhone no app *Napsternetv (NPV TUNNEL)*`;
 
     // Opção 5: Comprar Serviço [PIX]
     else if (msg === '5') {
-        const pixInfo = `💳 *Informações para pagamento via PIX:*\n\n📱 *Chave Pix Celular:* (92)98586-3404\n👤 *Nome:* Antônio Carioca\n🏦 *Banco:* Inter\n\n📥 *Envie o comprovante de pagamento aqui para validação.*`;
+        const pixInfo = `💳 *Informações para pagamento via PIX:*\n\n📱 *Chave Pix Celular:* (xx)9xxxx-xxxx\n👤 *Nome:* Nome Genérico \n🏦 *Banco:* Genérico\n\n📥.`;
 
 message.reply(pixInfo);
         aguardandoComprovante.add(numero); // Adiciona o número à lista de quem precisa enviar o comprovante
